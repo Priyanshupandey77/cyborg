@@ -12,7 +12,7 @@ function Navbar() {
           <img
             src="/cyborgLogo.jpeg"
             alt="Cyborg Logo"
-            className="h-10 w-10 sm:h-12 sm:w-12 rounded-full object-cover border-2 border-cyan-400"
+            className="h-16 w-16 sm:h-20 sm:w-20 rounded-full object-cover border-2 border-cyan-400 shadow-[0_0_15px_#22d3ee]"
           />
 
           <h2 className="text-xl sm:text-2xl font-bold tracking-wider text-cyan-400 drop-shadow-[0_0_10px_cyan]">
